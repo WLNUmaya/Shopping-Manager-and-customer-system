@@ -1,0 +1,1 @@
+Clothing,A12345,Shirt,6,100.0,S,Red
